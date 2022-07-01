@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 tun = "0.5"
+etherparse = "0.10.1"
